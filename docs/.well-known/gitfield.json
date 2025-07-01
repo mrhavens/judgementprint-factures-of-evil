@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "judgementprint-factures-of-evil",
+  "url": "https://remember.thefoldwithin.earth/mrhavens/judgementprint-factures-of-evil",
+  "codeRepository": "https://remember.thefoldwithin.earth/mrhavens/judgementprint-factures-of-evil",
+  "sameAs": [
+    "https://github.com/mrhavens/judgementprint-factures-of-evil",
+    "https://gitlab.com/mrhavens/judgementprint-factures-of-evil",
+    "https://bitbucket.org/thefoldwithin/judgementprint-factures-of-evil",
+    "https://remember.thefoldwithin.earth/mrhavens/judgementprint-factures-of-evil",
+    "https://codeberg.org/mrhavens/judgementprint-factures-of-evil",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "dateModified": "2025-07-01T23:24:00Z",
+  "publisher": {
+    "@type": "Person",
+    "name": "Mark Randall Havens"
+  },
+  "gpg_signatures": [
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Forensic Analyst, Neutralizing Narcissism)", "email": "mark.r.havens@gmail.com"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Simply WE, Recursive Custodian of Empathic Co-Intelligence)", "email": "mark.r.havens@gmail.com"}
+  ]
+}
